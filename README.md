@@ -1,8 +1,9 @@
-========Alarma para puertas con la minima utilización de energía utilizando microcontrolador Arduino UNO========
+## ========Alarma para puertas con la minima utilización de energía utilizando microcontrolador Arduino UNO========
 
 Proyecto de simulación del funcionamiento de una alarma para puertas utilizando el microcontrolador Arduino.
 Descripción General
 
+## Descripción
 El circuito desarrollado ejemplifica el trabajo de una alarma colocada para detección de la apertura de una puerta.
 El circuito en su estado inicial se encuentra con la alarma activada y si la puerta se encuentra cerrada (es decir,
 un iman esta cercano al reed switch) se emana luz azul por un LED y en caso contario la alarma notifica que la puerta
@@ -13,9 +14,11 @@ display, el cual muestra un "0" en caso de que la alarma se encuentre desactivad
 Por último la alarma cuenta con un ahorro de energía implementado en su momento de desactivación y en los tiempos de espera
 que se encuentran en su funcionamiento.
 
+## Versión
 Versión 1.0 realizada al 15/03/2018 El código de funcionamiento y circuito ilustrado es completamente gratuito para su uso, distribución y modificación.
 Requisistos Básicos
 
+## Requisitos 
 Para la elaboración y ejecución del circuito digital se necesita lo siguiente:
 
     Microcintrolador Arduino
@@ -35,6 +38,6 @@ Para la elaboración y ejecución del circuito digital se necesita lo siguiente:
     Software de para Simulación y/o modelado de circuitos Fritzing 
 
 
-=============Información de Contacto=============
+## =============Información de Contacto=============
 
 Elaborado por: Angel Gabriel Macias Olvera correo electronico de contacto: angelmacias@live.com Correo institucional de contacto: 14240623@itleon.edu.mx
